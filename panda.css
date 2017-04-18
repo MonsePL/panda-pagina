@@ -39,3 +39,7 @@ body {
   margin-left: 65px;
   display:inline-block;
 }
+
+.colum {
+  column-count: 2;
+}
